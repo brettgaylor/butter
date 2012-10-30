@@ -7,7 +7,7 @@
     "media": [{
         "id": "Media0",
         "name": "Media0",
-        "url": ["http://www.youtube.com/watch?v=PMXa8zx4wek&amp;butteruid=1351103767039", "http://videos-cdn.mozilla.net/serv/webmademovies/makecorn.ogv?butteruid=1351103767040", "http://videos-cdn.mozilla.net/serv/webmademovies/makecorn.webm?butteruid=1351103767041"],
+        "url": ["http://www.youtube.com/watch?v=PMXa8zx4wek"],
         "target": "video",
         "duration": 107.483,
         "controls": false,

@@ -7,7 +7,7 @@
     "media": [{
         "id": "Media0",
         "name": "Media0",
-        "url": ["?butteruid=1351629454717#t=,15"],
+        "url": ["#t=,15"],
         "target": "video",
         "duration": "15",
         "controls": true,
@@ -138,6 +138,6 @@
             }]
         }]
     }],
-    "name": "Remix of Blank",
+    "name": "My cool project",
     "template": "basic"
 }
